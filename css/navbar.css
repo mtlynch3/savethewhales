@@ -143,6 +143,35 @@ body {
     text-align: center;
     background-color: white;
     padding: 30px;
+    
+}
+
+#showcase{
+    display: flex;
+}
+
+#showcase img {
+    border-radius: 50%;
+}
+
+#showcase h1{
+    color:#1a7599;
+    font-size: xx-large;
+}
+
+#subcase1 {
+    flex:1;
+    order:1;
+}
+
+#subcase2 {
+    flex:1;
+    order:2;
+}
+
+#subcase3 {
+    flex:1;
+    order:3;
 }
 
 @media(max-width: 768px) {
