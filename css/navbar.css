@@ -54,3 +54,60 @@ nav {
     width: 100px;
     vertical-align: middle;
 }
+
+footer {
+    padding: 20px;
+    margin-top: 20px;
+    color: #ffffff;
+    /* font-weight: bold; */
+    background-color: skyblue;
+    /* text-align: center; */
+    display: flex;
+    
+}
+
+.box-1 {
+    flex:1;
+    order:1;
+    text-align: center;
+    font-size: large;
+}
+
+.box-2 {
+    flex:2;
+    order:2;
+    font-size: large;
+
+}
+
+.box-3 {
+    flex:2;
+    order:3;
+    text-align: right;
+}
+
+footer li {
+
+  
+    list-style: none;
+  
+}
+
+footer.flex-footer {
+    /* display: flex;
+    align-items: center;
+  justify-content: space-between; */
+  /* float: left; */
+}
+
+
+
+body {
+
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 85vh;
+    overflow-x: hidden;
+    
+}
