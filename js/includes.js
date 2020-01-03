@@ -9,9 +9,9 @@ const navbar = () => {
         <img src="http://www.pngmart.com/files/7/Killer-Whale-PNG-File.png" alt="savethewhales">
       </a>
       <ul class="nav-links">
-        <li class="nav-item"><a href="#">Home</a></li>
-        <li class="nav-item"><a href="#">About us</a></li>
-        <li class="nav-item"><a href="#">Donate</a></li>
+        <li class="nav-item"><a href="https://mtlynch3.github.io/savethewhales">Home</a></li>
+        <li class="nav-item"><a href="https://mtlynch3.github.io/savethewhales/about.html">About us</a></li>
+        <li class="nav-item"><a href="https://mtlynch3.github.io/savethewhales/donate.html">Donate</a></li>
       </ul>
     </nav>
 `;
