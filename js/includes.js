@@ -35,9 +35,6 @@ const set_includes = elem => {
   e.innerHTML = context["navbar"]();
 };
 
-const includes = () => {
-  const elems = ["navbar"];
+const includes = elems => {
   elems.forEach(elem => set_includes(elem));
 };
-
-includes();
