@@ -139,6 +139,12 @@ body {
     flex-shrink: 0; 
 }
 
+.homepage {
+    text-align: center;
+    background-color: white;
+    padding: 30px;
+}
+
 @media(max-width: 768px) {
     footer {
         display: block;
