@@ -55,6 +55,15 @@ nav {
     vertical-align: middle;
 }
 
+.about-content{
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+}
+.about-item{
+
+}
+
 footer {
     padding: 20px;
     margin-top: 20px;
