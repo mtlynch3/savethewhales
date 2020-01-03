@@ -116,6 +116,10 @@ body {
 
 @media(max-width: 768px) {
     footer {
-        display: none;
+        display: block;
+        text-align: center;
+    }
+    .box-3 {
+        text-align: center;
     }
 }
