@@ -31,8 +31,8 @@ const footer = () => {
 };
 
 const set_includes = elem => {
-  const e = document.getElementsByTagName(elem);
-  e[0].innerHTML = context["navbar"]();
+  const e = document.getElementById(elem);
+  e.innerHTML = context["navbar"]();
 };
 
 const includes = () => {
