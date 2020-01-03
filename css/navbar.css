@@ -113,3 +113,9 @@ body {
     overflow-x: hidden;
     
 }
+
+@media(max-width: 768px) {
+    footer {
+        display: none;
+    }
+}
