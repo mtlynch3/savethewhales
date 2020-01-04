@@ -1,3 +1,5 @@
+# Save the Whales
+
 A website that encourages people to save the whales by donating:
 
-https://mtlynch3.github.io/savethewhales/
+Live github pages link [here](https://mtlynch3.github.io/savethewhales/).

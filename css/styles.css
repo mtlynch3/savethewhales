@@ -75,7 +75,7 @@ footer {
     display: flex;
     flex-flow: row wrap;
     justify-content: space-evenly;
-    
+
 }
 
 .box-1 {
@@ -100,16 +100,16 @@ footer {
 
 footer li {
 
-  
+
     list-style: none;
-  
+
 }
 
 footer.flex-footer {
     /* display: flex;
     align-items: center;
   justify-content: space-between; */
-  /* float: left; */
+    /* float: left; */
 }
 
 
@@ -122,13 +122,13 @@ body {
     height: 85vh;
     overflow-x: hidden;
     background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/debut_light.png");
-    background-repeat: repeat;	
-    
+    background-repeat: repeat;
+
 }
 
 form {
 
-     font-size: 20px;
+    font-size: 20px;
 }
 
 html, body {
@@ -145,14 +145,14 @@ body {
 }
 
 .footer {
-    flex-shrink: 0; 
+    flex-shrink: 0;
 }
 
 .homepage {
     text-align: center;
     background-color: white;
     padding: 30px;
-    
+
 }
 
 #showcase{
@@ -209,22 +209,22 @@ body {
     border-radius: 25px;
     background-size: 50% 3000px;
     padding: 30px;
-  border: 2px solid #73AD21;
+    border: 2px solid #73AD21;
 
 }
 
 .left-list {
-	       text-align: left;	
+	text-align: left;
 }
 
-.middle { 
+.middle {
 	flex: 0.05;
 }
 
 .right {
-     flex: 1;		
-    background-color: #e9f6fb;	
+    flex: 1;
+    background-color: #e9f6fb;
     padding: 30px;
     border-radius: 25px;
-  border: 2px solid #73AD21;
+    border: 2px solid #73AD21;
 }
